@@ -6,7 +6,7 @@ A question rarely discussed in epistemology is *"why should we care about whethe
 
 ## The instrumental value of true belief
 
-:bulb: <span style="color:yellow">*instrumental value*</span>  
+:bulb: ***instrumental value**  
 One way of thinking about if knowledge is worth something or not is that *all other things being equal*, knowledge (ie true beliefs) enable us to fulfil our goals. This sort of value that focuses on something being useful for further gain is called **instrumental value**. Knowledge generally has instrumental value. Not always though. Consider these examples:
 
 - If I know what time my meeting starts - I'll be on time for this meeting.

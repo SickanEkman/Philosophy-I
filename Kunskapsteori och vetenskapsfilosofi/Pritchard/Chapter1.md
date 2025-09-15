@@ -4,15 +4,15 @@ The study of epistemology tries to answer questions like "What is knowledge?", a
 
 ## Types of knowledge
 
-:bulb: <span style="color:yellow">*Propositional knowledge*</span>  
+:bulb: ***Propositional knowledge**  
 **Propositional knowledge** is knowledge about a proposition (I might think of this as a simple statement, saying something about a state). The world is round. Stockholm is the capital of Sweden. Two plus two equals four.
 
-:bulb: <span style="color:yellow">*Ability knowledge*</span>  
+:bulb: ***Ability knowledge**  
 **Ability knowledge**, or "know-how", is *one example* of other types of knowledge. Ability knowledge is knowing how to swim. Knowledge about how to make a fire. I might not know the set of propositions involved in swimming, and I might not be able to tell someone how to swim, but I might know how to swim.
 
 I have ability knowledge about programming, but not deep propositional knowledge. I *think* this is correct.
 
-<span style="color:yellow">Note! This book revolves around *propositional* knowledge</span>
+**Note! This book revolves around *propositional* knowledge*
 
 ## Two basic requirements of knowledge: truth and belief
 
