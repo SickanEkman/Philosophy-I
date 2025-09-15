@@ -6,7 +6,7 @@ A question rarely discussed in epistemology is *"why should we care about whethe
 
 ## The instrumental value of true belief
 
-:bulb: :brain::speech_balloon: **instrumental value**  
+:bulb: :brain: **instrumental value**  
 One way of thinking about if knowledge is worth something or not is that *all other things being equal*, knowledge (ie true beliefs) enable us to fulfil our goals. This sort of value that focuses on something being useful for further gain is called **instrumental value**. Knowledge generally has instrumental value. Not always though. Consider these examples:
 
 - If I know what time my meeting starts - I'll be on time for this meeting.
@@ -39,7 +39,7 @@ I think these are better? more clear? examples:
 
 ## The statues of Daedalus
 
-< *Sokrates* taught *Plato*, who taught *Aristoteles*. Plato is considered one of the most influential philosophers. He founded "The Academy" - a kind of early univerity that dealed mainly in philosophy. He also wrote The Theaetetus (amongst other books) which deals with the nature of knowledge.
+> *Sokrates* taught *Plato*, who taught *Aristoteles*. Plato is considered one of the most influential philosophers. He founded "The Academy" - a kind of early univerity that dealed mainly in philosophy. He also wrote The Theaetetus (amongst other books) which deals with the nature of knowledge.
 
 Plato said something along the lines of "that cool statue made by Deadalus is so well made we must tether it to the ground. Otherwise it'll run away. True belief is easily lost like the statue that runs away, while knowledge is like the tethered statue."
 
