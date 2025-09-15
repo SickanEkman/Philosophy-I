@@ -4,5 +4,5 @@
 
 4:e upplagan
 
-:bulb::notebook: **Epistemology**  
+:bulb: :brain::speech_balloon: **Epistemology**  
 [From Wikipedia](https://en.wikipedia.org/wiki/Epistemology): Epistemology is the branch of philosophy that examines the nature, origin, and limits of knowledge. Also called "the theory of knowledge", it explores different types of knowledge, such as propositional knowledge about facts, practical knowledge in the form of skills, and knowledge by acquaintance as a familiarity through experience"
