@@ -1,4 +1,4 @@
-# Part 1, chapter 1, what is knowledge? - The structure of knowledge
+# Chapter 4 - The structure of knowledge
 
 ## Knowledge and justification
 
@@ -55,7 +55,7 @@ Coherentism is a somewhat accepted view, partly because it mimics the world. Thi
 ## Foundationalism
 
 :bulb: :brain: **(Classical) foundationalism**  
-Foundamentalism is an option that accepts that we can not in fact - at least not all the time - support our beliefs (Agrippas 1:st). And we don't need to since some beliefs are *self-justing*. When I start my chain of justifications I will eventually end up with a special self-justified foundamental belief which stands by itself and does not need any further support.
+Foundationalism is an option that accepts that we can not in fact - at least not all the time - support our beliefs (Agrippas 1:st). And we don't need to since some beliefs are *self-justing*. When I start my chain of justifications I will eventually end up with a special self-justified foundamental belief which stands by itself and does not need any further support.
 
 This view is the most popular one. Seven goatings.
 
@@ -70,3 +70,10 @@ And if I base my network of beliefs upon this core belief that by definition sho
 
 And this too - it's kinda hard to see the justification chain from many of by everyday beliefs ("I think the bus arrives in 2 minutes"), all the way down to my core belief. What have they got to do with each other?
 
+## CHAPTER SUMMARY
+
+- We began by noting that, intuitively, if we are to have knowledge then we must be justified in what we believe. We therefore asked the question of what justification is.
+- According to Agrippa’s trilemma, there are only three alternatives in this regard, and none of them are particularly appealing on the face of it. The first alternative is to regard one’s belief as being justified by nothing at all; no further grounds. The problem with this option is obvious, since if there is nothing supporting the belief, then in what sense can it be justified? (We used the analogy with a house to illustrate this. A house with no foundations will not stand.) The second alternative is to regard one’s belief as justified by a further ground which, presumably, will be itself another belief. The problem with this suggestion is that this further belief will also need to be justified, since if the original belief is based on an unjustified second belief then it is hard to see how the second belief can offer any support to the first belief. But if the second belief needs to be justified, then that belief will itself need to be supported by a further belief, and so on indefinitely. We thus have an infinite regress looming. (Consider the analogy with the house again. A house with an unending series of foundations will not stand.) Finally, there is the third option of allowing the supporting beliefs, at some point in the chain of justification, to be beliefs that have appeared elsewhere in the chain. This option thus allows circular justifications. This third option is not appealing either, however since a circular chain of justification seems little better than no justification at all. (To return to the analogy, a house with a circular set of foundations, with no foundations holding all the other foundations up, will not stand.) It thus seems hard to fathom how any belief could be justified.
+- We considered three responses to Agrippa’s trilemma, where each of them took one of the unpalatable options just mentioned. The first option was infinitism, which holds that an infinite chain of grounds can justify a belief.
+- The second response was coherentism, as defended by Quine, which holds that a circular chain of grounds, so long as it has the right sort of properties at any rate (e.g. being large enough), can justify a belief.
+- Finally, we looked at foundationalism, and classical foundationalism in particular – as defended by Descartes – which holds that there are some grounds which do not require any further support, and which can thus act as foundations for the beliefs that rest upon them. We noted that what is specific to classical foundationalism is that it regards these ‘foundational’ beliefs as having properties which ensure that they are self-justifying – such as the property of being indubitable or infallibly held. The problem facing this view, however, is that it is difficult to find an account of these foundational beliefs that is plausible while at the same time counting a sufficient number of our beliefs as foundational so that they can support the other beliefs we hold.

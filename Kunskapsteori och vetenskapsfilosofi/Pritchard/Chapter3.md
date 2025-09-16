@@ -1,4 +1,4 @@
-# Part 1, chapter 3, what is knowledge? - defining knowledge
+# Chapter 3 - defining knowledge
 
 ## The problem of the criterion
 

@@ -1,4 +1,4 @@
-# Part 1, chapter 1, what is knowledge? - Some preliminaries
+# Chapter 1 - Some preliminaries
 
 The study of epistemology tries to answer questions like "What is knowledge?", among other things.
 
@@ -13,7 +13,7 @@ The study of epistemology tries to answer questions like "What is knowledge?", a
 
 I have ability knowledge about programming, but not deep propositional knowledge. I *think* this is correct.
 
-**Note! This book revolves around *propositional* knowledge*
+> :exclamation: ** Note! This book revolves around *propositional* knowledge*
 
 ## Two basic requirements of knowledge: truth and belief
 

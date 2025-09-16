@@ -1,4 +1,4 @@
-# Part 1, chapter 2, what is knowledge? - the value of knowledge
+# Chapter 2 - the value of knowledge
 
 ## Why care about knowledge?
 
