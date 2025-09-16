@@ -19,7 +19,8 @@ At some point we'll also probably arrive at the starting point ("The teacher tol
 
 ## Agrippa's trilemma
 
-> Agrippa was an ancient Greek philosopher
+> Agrippa, 100 AD  
+> An ancient Greek philosopher, more specifically a Pyrrhonian sceptic. These sceptics think you shouldn't assert really anything, and therefore didn't write down much about what they thought. The trilemma is an exception, written down by someone else and attributed to Agrippa.
 
 :bulb: :brain: **Trilemma**  
 A problem with three unpalatable options.
@@ -31,3 +32,41 @@ There are three obvious answers to "how do you support your beliefs?". None of t
 3. My beliefs are supported by a circular chain of justification.
 
 People have come up with ways to avoid all these bad options.
+
+## Infinitism
+
+:bulb: :brain: **Infinitism**  
+If you embrace option 2 and concludes that an infinite chain of justifications can actually be viewed as justification for belief, you believe in **infinitism**.
+
+This view has never been very popular. Two goatings.
+
+## Coherentism
+
+:bulb: :brain: **Coherentism**  
+Fans of option 2 are believers in **Coherentism**. They say that if the circle of justifications supporting your belief is *big enough*, that is enough justification.
+
+Coherentism is a more popular stance. Five goatings.
+
+> W. V. O. Quine, 1908-2000  
+> American philosopher. Important in modern philosophy, especially for his Coheristic work. He viewed *all* claims to be unstable in the sense that they might be proven wrong at some point. And since a circular chain of justification big enough to be valid includes your belief as a whole with no one belief standing apart, a change in one particular justification affects all other believes in your world view.
+
+Coherentism is a somewhat accepted view, partly because it mimics the world. This *is* how we often form our beliefs. My network of beliefs is my worldview, and my worldview is what makes me form new beliefs. 
+
+## Foundationalism
+
+:bulb: :brain: **(Classical) foundationalism**  
+Foundamentalism is an option that accepts that we can not in fact - at least not all the time - support our beliefs (Agrippas 1:st). And we don't need to since some beliefs are *self-justing*. When I start my chain of justifications I will eventually end up with a special self-justified foundamental belief which stands by itself and does not need any further support.
+
+This view is the most popular one. Seven goatings.
+
+> René Descartes, 1596-1650
+> Mathematician and philosopher, and founding father of modern philosophy. He promoted the "method of doubt", which involves trying to disproof every single belief you hold until you can not anymore, in which case you end up with a solid foundation of beliefs that you can then build your knowledge upon. He found that the core belief was the belief that one exist ("I think, therefore I am").
+>
+> To disproof his beliefs he formulated skeptical ideas about them. Ironically enough, these skeptical ideas turned out to be really good and have influenced philosophy more than his anti-skeptical arguments that he wanted to present.
+
+The biggest problem with foundationalism is that it is so hard to identify these core self-justifying beliefs. Most (all?) agree that we exist, but apart from that, what else?
+
+And if I base my network of beliefs upon this core belief that by definition should not be able to be wrong, what happens when my other beliefs are disproven? Should this not mean that my core belief is wrong too, thus making it actually proven wrong?
+
+And this too - it's kinda hard to see the justification chain from many of by everyday beliefs ("I think the bus arrives in 2 minutes"), all the way down to my core belief. What have they got to do with each other?
+
